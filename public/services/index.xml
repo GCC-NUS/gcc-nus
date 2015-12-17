@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on GCC-NUS</title>
+    <link>http://localhost:1313/services/</link>
+    <description>Recent content in Services on GCC-NUS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/services/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/services/about/about/</guid>
+      <description>&lt;p&gt;Hi, this is Global China Connection in National University of Singapore(GCC-NUS).&lt;/p&gt;
+
+&lt;p&gt;Founded in 2015, GCC-NUS is a nonprofit, nonpartisan organization for NUS students of all nationalities looking to engage China’s emergence as a global power. GCC connects future leaders from all nations and assists them in developing the skills and friendships necessary to succeed both in China and internationally.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Customized Widgets</title>
+      <link>http://localhost:1313/services/widgets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/services/widgets/</guid>
+      <description>&lt;p&gt;We specialize in bespoke widgets,
+built to your specification.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
